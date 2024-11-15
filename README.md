@@ -9,4 +9,9 @@ Welcome to this repository where we share teaching materials on computer science
 - **Adding Code**: Place any code examples directly next to your article for easy reference.
 - **Organization**: Help us keep the repository organized and structured so everyone can easily find what they need.
 
+You have two options to add your materials:
+
+- Add a [Wiki](https://github.com/gostrobrod/MicroStudio-Teaching/wiki) page
+- Add files straight to the repo. [Here](https://github.com/gostrobrod/MicroStudio-Teaching/wiki/Adding-materials-straight-to-repo) is a guide how to to that.
+
 Thank you for contributing to our learning community!
